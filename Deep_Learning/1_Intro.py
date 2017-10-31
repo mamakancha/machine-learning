@@ -22,8 +22,8 @@ Each input is fed to all the neurons of the first layer and each connection has 
 The output from the neurons of the first layer becomes the input for the second layer and so on.
 
 x1,x2,x3 -> Input layer
-Layers inbetween ->Hidden Layers
-Last layer ->Output Layer.
+Layers inbetween -> Hidden Layers
+Last layer -> Output Layer.
 
 If we have one hidden layer, it is a regular neural network. If > one layer, then "deep" neural network.
 
